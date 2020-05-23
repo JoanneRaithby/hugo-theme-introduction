@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Introduction"
+title: Bop Animations
 headless: true
----
 
-I'm a theme for Hugo
+---
+3D Character Animator

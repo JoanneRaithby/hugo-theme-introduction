@@ -1,6 +1,6 @@
 ---
 title: Bop Animations
-headless: true
+headless: false
 
 ---
 3D Character Animator

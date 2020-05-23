@@ -1,9 +1,9 @@
 ---
-title: "About"
-image: "profile.jpg"
-weight: 8
----
+title: About
+image: "/uploads/jimmy-for-web_002.jpg"
+weight: "8"
 
+---
 This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
 
 ### Features

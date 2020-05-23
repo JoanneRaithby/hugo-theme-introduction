@@ -1,6 +1,6 @@
 ---
 title: About
-image: "/uploads/jimmy-for-web_002.jpg"
+image: jimmy-for-web_002.jpg
 weight: "8"
 
 ---
